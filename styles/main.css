@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background-color: #B1A296;
+}
+
+
+.logo h3 {
+    font-family: 'Rubik', sans-serif;
+    color: #f0f0f0;
+    font-size: 25px;
+}
+
+.nav__list {
+    display: flex;
+    justify-content: space-around;
+    width: 15%;
+}
+
+.nav__list li {
+    list-style: none;
+}
+
+.nav__item a {
+    text-decoration: none;
+    color:#f0f0f0;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+}
