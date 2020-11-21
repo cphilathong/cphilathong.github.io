@@ -22,7 +22,7 @@ nav {
     font-family: 'Rubik', sans-serif;
     font-size: 100px;
     margin-top: 150px;
-    margin-left: 20px;
+    margin-left: 100px;
 
 }
 
@@ -50,9 +50,10 @@ nav {
     font-weight: bold;
 }
 
- p {
+ .intro p {
     display: flex;
     justify-content: space-around;
     margin-left: 80px;
     font-size: 50px;
 }
+
