@@ -58,3 +58,26 @@ nav {
     margin-right: 100px;
 }
 
+h1 {
+    margin-top: 2rem;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.technical-blog p {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    margin-left:  10rem;
+    margin-right:  10rem;
+    font-family: 'Rubik', sans-serif;
+}
+
+.technical-blog img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 1rem;
+}
