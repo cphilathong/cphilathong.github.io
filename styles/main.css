@@ -5,12 +5,25 @@
 }
 
 
+
 nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    min-height: 8vh;
+    min-height: 5vh;
     background-color: #B1A296;
+    
+}
+
+
+#home {
+    display: flex;
+    align-items: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: 100px;
+    margin-top: 150px;
+    margin-left: 20px;
+
 }
 
 
@@ -35,4 +48,11 @@ nav {
     color:#f0f0f0;
     font-family: 'Rubik', sans-serif;
     font-weight: bold;
+}
+
+p {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 80px;
+    font-size: 70px;
 }
