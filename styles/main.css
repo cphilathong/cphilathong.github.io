@@ -87,7 +87,14 @@ h1 {
     font-family: 'Rubik', sans-serif;
     text-align: center;
     font-size: 1rem;
+    margin: auto 6rem;
 }
 
+.sprints p {
+    margin-top: 2rem;
+    line-height: 1.5rem;
+}
 
-
+.sprints .br-line {
+    margin-top: 1.5rem;
+}
