@@ -90,6 +90,15 @@ h1 {
     margin: auto 6rem;
 }
 
+
+.sprints   {
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    font-size: 1rem;
+    margin: auto 6rem;
+}
+
+
 .sprints p {
     margin-top: 2rem;
     line-height: 1.5rem;
