@@ -1,0 +1,3 @@
+[submodule "games/minesweeper"]
+	path = games/minesweeper
+	url = https://github.com/cphilathong/minesweeper.git
