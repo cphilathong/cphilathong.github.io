@@ -108,3 +108,31 @@ h1 {
 .sprints .br-line {
     margin-top: 1.5rem;
 }
+
+/* mobile portrait */
+@media only screen 
+and (min-device-width : 320px) 
+and (orientation: portrait) { 
+    body {
+        background-color: blue;
+    }
+ }
+
+ /* tablet portrait */
+ @media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1200px) 
+and (orientation: portrait) { 
+    body {
+        background-color: green;
+    }
+ }
+
+ /* desktop/laptop  */
+ @media only screen 
+ and (min-device-width : 1200px) 
+ and (orientation: portrait) { 
+     body {
+         background-color: purple;
+     }
+  }
